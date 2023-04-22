@@ -1,0 +1,101 @@
+OpenMP Thread Sayısı 2, Bölünme Sayısı 5, n=100
+----------------------------------------
+OpenMP     -198.010788     690504
+OpenMP     -198.010788     508139
+OpenMP     -198.010788     707291
+OpenMP     -198.010788     2090650
+OpenMP     -198.010788     2494864
+OpenMP     -198.010788     2680831
+OpenMP     -198.010788     2162238
+OpenMP     -198.010788     2406252
+OpenMP     -198.010788     1258928
+OpenMP     -198.010788     1241972
+OpenMP     -198.010788     735506
+OpenMP     -198.010788     1252103
+OpenMP     -198.010788     859883
+OpenMP     -198.010788     730457
+OpenMP     -198.010788     1080811
+OpenMP     -198.010788     1525813
+OpenMP     -198.010788     1457318
+OpenMP     -198.010788     1691743
+OpenMP     -198.010788     1978101
+OpenMP     -198.010788     831139
+OpenMP     -198.010788     763891
+OpenMP     -198.010788     689046
+OpenMP     -198.010788     939758
+OpenMP     -198.010788     1635925
+OpenMP     -198.010788     1049415
+OpenMP     -198.010788     2732815
+OpenMP     -198.010788     483877
+OpenMP     -198.010788     607948
+OpenMP     -198.010788     5342249
+OpenMP     -198.010788     2474018
+Ortalaması   1503449
+
+pThread Thread Sayısı 2, n=100
+----------------------------------------
+pThread     -198.010773     1732013
+pThread     -198.010773     966215
+pThread     -198.010773     1845343
+pThread     -198.010773     1674563
+pThread     -198.010773     3028717
+pThread     -198.010773     1395498
+pThread     -198.010773     1074681
+pThread     -198.010773     1170910
+pThread     -198.010773     1776617
+pThread     -198.010773     4001665
+pThread     -198.010773     796345
+pThread     -198.010773     706086
+pThread     -198.010773     1438732
+pThread     -198.010773     917940
+pThread     -198.010773     3219086
+pThread     -198.010773     1759693
+pThread     -198.010773     819065
+pThread     -198.010773     834274
+pThread     -198.010773     779031
+pThread     -198.010773     837059
+pThread     -198.010773     957741
+pThread     -198.010773     811351
+pThread     -198.010773     1729323
+pThread     -198.010773     937850
+pThread     -198.010773     574027
+pThread     -198.010773     1011275
+pThread     -198.010773     854390
+pThread     -198.010773     1078420
+pThread     -198.010773     1731914
+pThread     -198.010773     1911297
+Ortalaması   1412370
+
+Seri Hesaplama n=100
+----------------------------------------
+Seri Hesaplama     -198.010773     839503
+Seri Hesaplama     -198.010773     478098
+Seri Hesaplama     -198.010773     434257
+Seri Hesaplama     -198.010773     3210323
+Seri Hesaplama     -198.010773     3676373
+Seri Hesaplama     -198.010773     912550
+Seri Hesaplama     -198.010773     3684138
+Seri Hesaplama     -198.010773     344993
+Seri Hesaplama     -198.010773     337960
+Seri Hesaplama     -198.010773     251524
+Seri Hesaplama     -198.010773     474004
+Seri Hesaplama     -198.010773     938650
+Seri Hesaplama     -198.010773     1769993
+Seri Hesaplama     -198.010773     1283280
+Seri Hesaplama     -198.010773     610130
+Seri Hesaplama     -198.010773     1952576
+Seri Hesaplama     -198.010773     2443370
+Seri Hesaplama     -198.010773     2025609
+Seri Hesaplama     -198.010773     1906102
+Seri Hesaplama     -198.010773     1835097
+Seri Hesaplama     -198.010773     946537
+Seri Hesaplama     -198.010773     634103
+Seri Hesaplama     -198.010773     1703817
+Seri Hesaplama     -198.010773     2047386
+Seri Hesaplama     -198.010773     151624
+Seri Hesaplama     -198.010773     1787324
+Seri Hesaplama     -198.010773     2650809
+Seri Hesaplama     -198.010773     438074
+Seri Hesaplama     -198.010773     458523
+Seri Hesaplama     -198.010773     1602847
+Ortalaması   1394319

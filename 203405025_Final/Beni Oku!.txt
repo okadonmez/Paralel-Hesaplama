@@ -1,0 +1,9 @@
+Oğuz Kağan DÖNMEZ
+203405025
+Bilgisayar Mühendisliği 3. Sınıf Öğrencisi
+
+
+OpenMP --> gcc OpenMP.c -o exe_OpenMP -fopenmp
+MPI --> mpirun -np 5 ./exe_MPI  
+
+(MPI 5 prosses ile çalışmaktadır çalıştırırken unutulmamalıdır!)

@@ -1,0 +1,101 @@
+OpenMP Thread Sayısı 4, Bölünme Sayısı 5, n=5000
+----------------------------------------
+OpenMP     -198.000061     43645996
+OpenMP     -198.000107     30922368
+OpenMP     -197.999954     33855936
+OpenMP     -197.999969     52680429
+OpenMP     -197.999985     45925543
+OpenMP     -198.000015     54470580
+OpenMP     -198.000107     57929609
+OpenMP     -198.000061     43697207
+OpenMP     -198.000122     49401484
+OpenMP     -198.000046     66647415
+OpenMP     -198.000015     49942922
+OpenMP     -197.999969     77227042
+OpenMP     -198.000046     49376702
+OpenMP     -198.000092     63145797
+OpenMP     -198.000092     55810292
+OpenMP     -197.999771     34738726
+OpenMP     -198.000031     22016679
+OpenMP     -198.000198     69258178
+OpenMP     -197.999985     47208208
+OpenMP     -198.000183     56158005
+OpenMP     -198.000198     54850818
+OpenMP     -197.999802     35175094
+OpenMP     -197.939468     33961852
+OpenMP     -198.000092     42270324
+OpenMP     -198.000061     69930562
+OpenMP     -198.000015     39413182
+OpenMP     -198.000229     49157763
+OpenMP     -198.000015     53959152
+OpenMP     -198.000137     51178929
+OpenMP     -197.999954     48817779
+Ortalaması   49425819
+
+pThread Thread Sayısı 4, n=5000
+----------------------------------------
+pThread     -198.000183     60994313
+pThread     -198.000183     51211707
+pThread     -198.000183     50926801
+pThread     -198.000183     49601691
+pThread     -198.000183     57872078
+pThread     -198.000183     56982503
+pThread     -198.000183     45932597
+pThread     -198.000183     53448655
+pThread     -198.000183     48211578
+pThread     -198.000183     41809324
+pThread     -198.000183     40347806
+pThread     -198.000183     59644927
+pThread     -198.000183     24094498
+pThread     -198.000183     45075027
+pThread     -198.000183     67004636
+pThread     -198.000183     42540680
+pThread     -198.000183     45479758
+pThread     -198.000183     56098041
+pThread     -198.000183     41250961
+pThread     -198.000183     22271386
+pThread     -198.000183     42502746
+pThread     -198.000183     44720846
+pThread     -198.000183     65578270
+pThread     -198.000183     59835206
+pThread     -198.000183     52106315
+pThread     -198.000183     37322306
+pThread     -198.000183     69826581
+pThread     -198.000183     43003168
+pThread     -198.000183     53551312
+pThread     -198.000183     45963917
+Ortalaması   49173654
+
+Seri Hesaplama n=5000
+----------------------------------------
+Seri Hesaplama     -198.000183     45338108
+Seri Hesaplama     -198.000183     41237712
+Seri Hesaplama     -198.000183     19697904
+Seri Hesaplama     -198.000183     36603433
+Seri Hesaplama     -198.000183     49691668
+Seri Hesaplama     -198.000183     26622227
+Seri Hesaplama     -198.000183     24572504
+Seri Hesaplama     -198.000183     40642121
+Seri Hesaplama     -198.000183     43140143
+Seri Hesaplama     -198.000183     57163558
+Seri Hesaplama     -198.000183     27352670
+Seri Hesaplama     -198.000183     56193132
+Seri Hesaplama     -198.000183     22878170
+Seri Hesaplama     -198.000183     28137095
+Seri Hesaplama     -198.000183     38041922
+Seri Hesaplama     -198.000183     39384863
+Seri Hesaplama     -198.000183     31562987
+Seri Hesaplama     -198.000183     44969083
+Seri Hesaplama     -198.000183     37880732
+Seri Hesaplama     -198.000183     58984550
+Seri Hesaplama     -198.000183     35834421
+Seri Hesaplama     -198.000183     35238100
+Seri Hesaplama     -198.000183     36283707
+Seri Hesaplama     -198.000183     39510411
+Seri Hesaplama     -198.000183     17882553
+Seri Hesaplama     -198.000183     43834171
+Seri Hesaplama     -198.000183     60783952
+Seri Hesaplama     -198.000183     27595159
+Seri Hesaplama     -198.000183     41694224
+Seri Hesaplama     -198.000183     47408631
+Ortalaması   38538663
